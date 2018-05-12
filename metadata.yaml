@@ -1,0 +1,27 @@
+_repo: Justicia-Nang-Dios_13683
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sequera, Mariano
+    gutenberg_agent_id: '5175'
+    url: http://www.gutenberg.org/2009/agents/5175
+description: ''
+gutenberg_issued: '2004-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13683'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Corridos'
+- !lcsh 'Christianity and culture'
+- !lcc 'PL'
+- !lcsh 'Tagalog literature'
+- !lcsh 'Christianity and justice -- Philippines'
+title: Justicia Nang Dios
+url: http://www.gutenberg.org/ebooks/13683
